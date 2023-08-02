@@ -1,0 +1,36 @@
+.firstdiv{ 
+    display: flex;
+    justify-content: center;
+    margin:auto 200px;
+}
+
+.Bdiv{
+    margin: auto;
+    font-size:large;
+    padding: 10%;
+    border-radius: 60%;
+}
+
+button{
+    background-color: #e4046b;
+    color: white;
+    padding: 2%;
+    border: none;
+    margin-left: 20rem;
+}
+
+.picdiv{
+    display: flex;
+    justify-content: center;
+    margin: auto 200px;
+
+}
+
+.midiv{
+    margin: auto;
+    font-size:large;
+    padding: 10%;
+    border-radius: 60%;
+}
+
+

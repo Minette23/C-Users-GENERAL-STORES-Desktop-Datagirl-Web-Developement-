@@ -1,0 +1,41 @@
+.flexc{
+    
+    
+}
+body{
+    background-image: url(/IMAGES/hi.jpg.jpeg)
+}
+.divs{
+    background-color: white;
+    color: black;
+    margin: 40px;
+    padding: 20px;
+    border: 10px dotted black ;
+    border-collapse: 100px;
+}
+
+.allsides{
+    text-decoration: overline underline;
+    border: 3px solid black;
+    
+}
+.red{
+    text-decoration: line-through;
+    border-bottom: solid rgba(255, 0, 0, 0.712);
+}
+.rounded{
+    text-decoration: overline;
+    border: 2px solid grey;
+    border-radius: 100px;
+}
+.blue{
+    text-decoration: underline;
+border-left: solid blue;
+background-color: aqua;
+}
+p{
+    font-size: 25px;
+    font-family: fantasy;
+    font-weight: 200;
+    font-style: inherit;
+}
